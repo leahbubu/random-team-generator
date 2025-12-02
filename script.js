@@ -215,3 +215,5 @@ function detectEmbedMode() {
 }
 
 detectEmbedMode();
+
+// Embed mode enabled
